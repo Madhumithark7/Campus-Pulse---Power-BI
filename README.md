@@ -29,7 +29,7 @@ Campaign Pulse is an interactive digital marketing analytics dashboard developed
 
 ## Files Included
 
-- `Campaign_Pulse_Dashboard.pbix` — Power BI project file.
+- `Digital Marketing Campaign Updated.pbix` — Power BI project file.
 - `Campaign_Pulse_PowerBI_Dataset.csv` — dataset used in the dashboard.
 
 ## Dataset Note
